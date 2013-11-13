@@ -10,3 +10,8 @@ Hints
 * What is the most common word in the English language?
 * Don't worry if your decryption isn't perfect; identifying the text is what's important here.
 * If you don't recognise the text, Google is your friend.
+
+Solutions
+
+* [David Hughes's solution](https://gist.github.com/daihuws/7449915)
+* [Andrew Bolster et al's solution](https://gist.github.com/andrewbolster/7418702)
